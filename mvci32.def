@@ -1,0 +1,4 @@
+LIBRARY mvci32.dll
+EXPORTS
+    PassThruOpen
+    PassThruClose
